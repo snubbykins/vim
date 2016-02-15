@@ -1,0 +1,5 @@
+ + Find out how to use GoToDefinition & Rename in ycm
+ + Make ctrp-p work in project path mode
+ + Find a nice cheat sheet for the git repo
+ + Check out clang-complete for c++, might be faster / better
+ + Try Clang/MSVC as the compiler for windows ... gcc is reallllly slow!
